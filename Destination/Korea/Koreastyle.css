@@ -1,0 +1,26 @@
+.KoreaMap {
+    padding-top: 50px;
+    padding-right: 30px;
+    width: 80%;
+    margin: auto;
+}
+
+.KoreaMap path {
+    fill: #082627;
+    stroke: rgb(190, 190, 160);
+    stroke-width: 3px;
+}
+
+.KoreaMap text {
+    fill: rgb(250, 255, 175);
+    font-size: 55px;
+    font-weight: 600;
+}
+
+.KoreaMap path:hover {
+    fill: rgb(248, 74, 88);
+}
+
+.KoreaMap a path {
+    fill:rgb(250, 255, 175);
+}

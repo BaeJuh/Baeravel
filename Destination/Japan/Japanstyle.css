@@ -1,0 +1,26 @@
+.JapanMap {
+    padding-top: 50px;
+    padding-right: 30px;
+    width: 96%;
+    margin: auto;
+}
+
+.JapanMap path {
+    fill: #082627;
+    stroke: rgb(190, 190, 160);
+    stroke-width: 3px;
+}
+
+.JapanMap text {
+    fill: rgb(250, 255, 175);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.JapanMap path:hover {
+    fill: rgb(248, 74, 88);
+}
+
+.JapanMap a path {
+    fill:rgb(250, 255, 175);
+}

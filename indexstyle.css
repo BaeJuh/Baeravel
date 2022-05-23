@@ -1,0 +1,22 @@
+.mapdiv {
+    padding-top: 50px;
+    padding-right: 30px;
+    width: 93%;
+    margin: auto;
+}
+
+.mapdiv path {
+    fill: #082627;
+    stroke: rgb(190, 190, 160);
+    stroke-width: 3px;
+}
+
+.mapdiv text {
+    fill: rgb(250, 255, 175);
+    font-size: 100px;
+    font-weight: 600;
+}
+
+.mapdiv circle {
+    fill: rgb(248, 74, 88);
+}
